@@ -1,3 +1,13 @@
+
+# Install git
+
+sudo apt install git
+git config --global user.name <name>
+git config --global user.email <email>
+
+ssh-keygen
+
+
 # docker-k8s
 
 ## Steps to start VM in Google Console
